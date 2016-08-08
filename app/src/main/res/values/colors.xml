@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_start_color_pressed">#fffcfcfc</color>
+    <color name="base_end_color_pressed">#ffd7d7d7</color>
+    <color name="me_item_color_pressed">#ff5e5e5e</color>
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_gray">#e8e9eb</color>
+    <color name="me_background_color">#b0000000</color>
+</resources>

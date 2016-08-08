@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomPopupWindow</string>
+    <string name="popup_bottom">show PopupWindow from bottom</string>
+    <string name="popup_center">show PopupWindow from center</string>
+    <string name="popup_relativity">show PopupWindow relatively</string>
+</resources>
